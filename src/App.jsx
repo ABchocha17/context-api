@@ -27,7 +27,6 @@ import Cart from "./components/Cart";
 
 function App() {
 
-
   return (
     <div className="app">
       <Item name="MacBook Pro" price={10000} />
